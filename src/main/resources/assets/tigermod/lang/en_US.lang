@@ -1,4 +1,8 @@
 tile.saso_block.name=Soruman
 tile.coordtransporter.name=Transporter
-item.furgl.name=Furgl
+item.furgl.name=Fungl
 item.coordcache=Coordinate cache
+item.kawaiihead=Kawaii helmet
+item.kawaiichest=Kawaii chestplate
+item.kawaiilegs=Kawaii legplates
+item.kawaiifeet=Kawaii boots
